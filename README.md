@@ -10,7 +10,7 @@
 
 **Networking & OS student · Full-stack builder · Gamer at heart**
 
-📍 México &nbsp;|&nbsp; 🎓 Instituto Tecnológico de Torreón &nbsp;|&nbsp; 🟢 Open to collaborating
+📍 México &nbsp;|&nbsp; 🎓 Instituto Tecnológico Superior de Lerdo &nbsp;|&nbsp; 🟢 Open to collaborating
 
 ---
 
