@@ -10,7 +10,7 @@
 
 **Networking & OS student · Full-stack builder · Gamer at heart**
 
-📍 Torreón, México &nbsp;|&nbsp; 🎓 Instituto Tecnológico de Torreón &nbsp;|&nbsp; 🟢 Open to collaborating
+📍 México &nbsp;|&nbsp; 🎓 Instituto Tecnológico de Torreón &nbsp;|&nbsp; 🟢 Open to collaborating
 
 ---
 
@@ -18,7 +18,7 @@
 
 - `build` Building **PsicoSoft** — a psychology clinic web app
 - `learn` Leveling up in full-stack web dev (from scratch, no shortcuts)
-- `study` Networking, Linux/Windows Server admin @ ITT Torreón
+- `study` Networking, Linux/Windows Server admin @ ITT
 - `gear` RTX 2060 + Ryzen 7 5700G — yes, I fixed the PCIe issue myself
 - `mail` apointer252@gmail.com
 - `fun` If I'm not coding, I'm probably in a game or tinkering with hardware
