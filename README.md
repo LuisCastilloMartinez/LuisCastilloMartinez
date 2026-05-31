@@ -1,30 +1,83 @@
-<h1 align="center">Hello there, Luis Castillo here 👀</h1>
-<h3 align="center">Student of computer science in Mexico</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscastillomartinez&label=Profile%20views&color=0e75b6&style=flat" alt="luiscastillomartinez" /> </p>
+![visitors](https://komarev.com/ghpvc/?username=luiscastillomartinez&label=visitors&color=0d1117&style=flat)
 
-- 🔭 I’m currently working on **My own Game**
+</div>
 
-- 🌱 I’m currently learning **C#, Python, Java**
+---
 
-- 🤝 I’m looking for help with **C#, Java**
+# Hey there! I'm Luis Castillo 👋
 
-- 💬 Ask me about **C#**
+**Networking & OS student · Full-stack builder · Gamer at heart**
 
-- 📫 How to reach me **apointer252@gmail.com**
+📍 Torreón, México &nbsp;|&nbsp; 🎓 Instituto Tecnológico de Torreón &nbsp;|&nbsp; 🟢 Open to collaborating
 
-- ⚡ Fun fact **I love to play videogames**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luis castillo martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis castillo martinez" height="30" width="40" /></a>
+### 🧑‍💻 About me
+
+- `build` Building **PsicoSoft** — a psychology clinic web app
+- `learn` Leveling up in full-stack web dev (from scratch, no shortcuts)
+- `study` Networking, Linux/Windows Server admin @ ITT Torreón
+- `gear` RTX 2060 + Ryzen 7 5700G — yes, I fixed the PCIe issue myself
+- `mail` apointer252@gmail.com
+- `fun` If I'm not coding, I'm probably in a game or tinkering with hardware
+
+---
+
+### 🛠️ Tech Stack
+
+**// languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![x86 NASM](https://img.shields.io/badge/x86_NASM-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+**// tools & platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 🔭 Current focus
+
+```
+→ building PsicoSoft · learning full-stack · surviving networking exams
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luiscastillomartinez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscastillomartinez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiscastillomartinez&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscastillomartinez&show_icons=true&locale=en&layout=compact" alt="luiscastillomartinez" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscastillomartinez&show_icons=true&locale=en" alt="luiscastillomartinez" /></p>
+### 🤝 Connect with me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiscastillomartinez&" alt="luiscastillomartinez" /></p>
+<a href="https://linkedin.com/in/luis-castillo-martinez" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="16" height="16" />
+  LinkedIn
+</a>
+&nbsp;&nbsp;
+📧 apointer252@gmail.com
+
+---
+
+<div align="center">
+  <sub>made with caffeine and Stack Overflow</sub>
+</div>
